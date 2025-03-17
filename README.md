@@ -28,8 +28,8 @@ chmod +x setup.sh
 ./setup.sh
 ./launch.sh
 ```
-Done! once, the `launch.sh` starts executing, visit: `http://localhost:3000` to access the Web App<br>
-The model endpoints are exposed @`http:localhost:8000`
+Done! once, the `launch.sh` starts executing, visit: [localhost:3000](http://localhost:3000) to access the Web App<br>
+The model endpoints are exposed @[localhost:8000](http://localhost:8000)
 
 > [!TIP]
 > `setup.sh` supports multiple flags for _customization_.
