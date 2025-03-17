@@ -1,5 +1,5 @@
-# IITD Hackathon, Tryst 2k25
-setup guide
+# IITD Hackathon, Tryst '25
+*Installation Guide*
 ```
   __,                   __, __
  (       _/_           (   ( /  /
@@ -34,3 +34,13 @@ The model endpoints are exposed @`http:localhost:8000`
 > [!TIP]
 > `setup.sh` supports multiple flags for _customization_.
 > Run `./setup.sh --help` to see all available options.
+
+> [!WARNING]
+> Never trust any random script online and run it blindly, always check what the script does.
+> 
+> To check setup.sh, try: `curl -L horrifyinghorse.github.io/hackathons/setup.sh | less`
+
+## Other Team Members invloved:
+- [Naresh](https://github.com/naresh-mahiya)
+- [Atharva](https://github.com/atharvakhaire06)
+- Arnab
