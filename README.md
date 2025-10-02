@@ -23,7 +23,7 @@ by: @horrifyingHorse(& others)
 
 Build & execute this hackathon project with just a couple of commands:
 ```bash
-wget horrifyinghorse.github.io/hackathons/setup.sh
+wget def3r.github.io/hackathons/setup.sh
 chmod +x setup.sh
 ./setup.sh
 ./launch.sh
@@ -38,7 +38,7 @@ The model endpoints are exposed @[localhost:8000](http://localhost:8000)
 > [!WARNING]
 > Never trust any random script online and run it blindly, always check what the script does.
 > 
-> To check setup.sh, try: `curl -L horrifyinghorse.github.io/hackathons/setup.sh | less`
+> To check setup.sh, try: `curl -L def3r.github.io/hackathons/setup.sh | less`
 
 ## Other Team Members invloved:
 - [Naresh](https://github.com/naresh-mahiya)
